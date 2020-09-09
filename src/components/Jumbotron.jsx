@@ -2,13 +2,14 @@ import React from 'react';
 import {Jumbotron as Jumbo, Container} from 'react-bootstrap'
 import styled from 'styled-components';
 import tower from "./images/harkness.jpg";
+import productiveperson from "./images/productive.jpg"
 
 const Styles = styled.div`
     .jumbo {
-        background: url(${tower}) no-repeat fixed bottom;
+        background: url(${productiveperson}) no-repeat fixed bottom;
         background-size: cover;
         color: #ccc;
-        height: 250px;
+        height: 400px;
         position: relative;
         z-index: -2;
     

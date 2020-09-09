@@ -7,9 +7,9 @@ export function Home() {
         <React.Fragment >
         <Jumbotron></Jumbotron>
         <div>
-            <p>Having Zoom calls doesn't simulate real interaction in the outside world. Whether you're going out to eat, talk, or study, you always have the opportunity to meet new people. 
-                    With the announcement that many campuses will be taking a lot of their classes virtual, it takes away the ability to make real connections and enjoy those memories. Well, there's a solution.
-                Join Us is the perfect way to connect with current friends and meet new people because you never know who you're going to meet in college.</p>
+            <p> 
+                Because of quarantine due to COVID-19, people feel lost and feel that they have lost their sense of purpose. However, it's important more than ever, to stay productive, focus on your mental health, and be happy! With Productive.io, people can continue to thrive while in quarantine and stay productive. Thus we encourage people to stay active, learn new skills such as coding or cooking, and share their progress with others.
+            </p>
         </div>
         </React.Fragment>
     )
