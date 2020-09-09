@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
   return (
     <header>
-      <h1>Join Us @ Yale</h1>
+      <h1>Productive.io</h1>
     </header>
   );
 }
